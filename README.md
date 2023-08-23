@@ -3,6 +3,7 @@
 Welcome to the Webcam Project repository! This project showcases a webcam application built using HTML, CSS, and JavaScript. 
 It enables users to 🎥 record videos, ⏸️ pause timers, and utilize the 📹 Media API for capturing webcam content. 
 It also utilizes 📦 IndexedDB for client-side storage, and features an embedded 🖼️ gallery, allowing users to manage their recorded videos.
+Deployed link: https://shruti0503.github.io/WebCam/
 
 ## Features
 
